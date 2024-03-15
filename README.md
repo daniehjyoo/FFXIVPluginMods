@@ -1,0 +1,2 @@
+# FFXIVPluginMods
+dalamund plugin urls
