@@ -272,23 +272,6 @@
     "IconUrl": "https://s3.puni.sh/media/plugin/29/icon-3vysu0z0eem.png"
   },
   {
-    "Author": "veyn",
-    "Name": "vfallguy",
-    "Punchline": "Get that achievement!",
-    "Description": "Bot that does fall guys event automatically.",
-    "InternalName": "vfallguy",
-    "RepoUrl": null,
-    "DownloadCount": 19121,
-    "LastUpdate": 1700000789276,
-    "DownloadLinkInstall": "https://puni.sh/api/plugins/download/41/vfallguy/versions/latest.zip",
-    "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/41/vfallguy/versions/latest.zip",
-    "AssemblyVersion": "0.0.0.6",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": "9",
-    "Changelog": "",
-    "IconUrl": "https://s3.puni.sh/media/plugin/41/icon-ky2vlcaen2q.png"
-  },
-  {
     "Author": "Haselnussbomber",
     "Name": "HaselTweaks",
     "InternalName": "HaselTweaks",
